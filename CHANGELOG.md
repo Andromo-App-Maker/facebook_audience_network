@@ -1,3 +1,8 @@
+## 1.0.2 (Andromo)
+- Android: bump Meta Audience Network SDK to 6.22.0 (align with AdMob mediation adapter 6.22.0.0).
+- iOS: bump Meta Audience Network SDK to 6.21.1 (align with AdMob mediation adapter 6.21.1.1.1).
+- Per-platform pins are intentional; Google uses different adapter/SDK versions on Android vs iOS.
+
 ## 1.0.1
 - Support Android V2 embedding - PR by @anil-shrestha
 
